@@ -1,4 +1,4 @@
-This is a demo of the [Zivtech](https://www.zivtech.com/) installation Profile [Bear](https://github.com/zivtech/bear) using Probo CI. The installation profile uses the [build-bear.make](https://github.com/zivtech/bear/blob/7.x-2.x/build-bear.make) file to build the site. 
+This is a demo of the [Zivtech](https://www.zivtech.com/) installation profile [Bear](https://github.com/zivtech/bear) using Probo CI. The installation profile uses the [build-bear.make](https://github.com/zivtech/bear/blob/7.x-2.x/build-bear.make) file to build the site. 
  
  Want to know more about Bear? [Check out Bear's features.](http://bear.zivtech.com/features)
 
